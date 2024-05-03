@@ -1,0 +1,20 @@
+.container {
+    margin-top: 20px;
+  }
+
+  input {
+    width: 250px;
+  }
+
+  li {
+    color: skyblue;
+    list-style-type: none;
+    margin: 10px;
+  }
+
+  li:hover {
+    background-color: rgb(89, 128, 246);
+    border: 2px solid rgb(123, 157, 236);
+    border-radius: 7px;
+    color: white;
+  }
